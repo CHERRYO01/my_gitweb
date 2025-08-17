@@ -1,0 +1,52 @@
+#headi {
+    color: white;
+    background-color: blueviolet;
+    border: 3px solid black;
+    margin: 0 auto;
+    /* width: ; */
+    height: 135px;
+    text-align: center;
+    font-size: 90px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+
+}
+
+.para {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(150, 129, 129);
+    background-color: aliceblue;
+    width: 55%;
+    height: 48px;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#vipline {
+    color: aqua;
+    font-weight: 700;
+
+}
+
+.blog {
+    font-size: 25px;
+    color: rgb(160, 90, 224);
+    background-color: lightsteelblue;
+    border: 5px solid rgb(160, 90, 224);
+    border-radius: 10px;
+    box-shadow: 10px 20px 15px rgb(120, 21, 212);
+
+
+
+
+
+
+
+}
+
+.bdy {
+    background-color: rgb(36, 13, 58);
+}
